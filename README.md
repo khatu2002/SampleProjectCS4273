@@ -6,7 +6,7 @@ Participants:
 
 
 
-Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
+Task management table: [here] [https://trello.com/b/l1lJCOYR/nh%E1%BA%ADp-m%C3%B4n-cnpm-gr5]
 
 UI / UX prototype: [here](https://www.figma.com/file/HPItpL9Ea8kNQIzWbNyQCk/Untitled?node-id=0%3A1) [Replace by your public prototype later]
 
