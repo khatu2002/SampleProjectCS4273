@@ -2,10 +2,8 @@
 
 Participants:
 
-- Leader: [Võ Hưng Khang - 2052440]
-- Member: [Vương Thị Yến Nhi - 20521721]
 - Member: [Huỳnh Khả Tú - 20522096]
-- Member: [Nguyễn Thúc Hoàng Hùng - 20521370]
+
 
 
 Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
